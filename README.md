@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ARTE.jpg" alt="Capa Warrior From Outer Space" width="700">
+</p>
+
 # WARRIOR FROM OUTER SPACE
 **Console:** Python Phantasy System (8-Bit CRT Arcade Engine)  
 **Estúdio:** CAMPGAMES ARTS  

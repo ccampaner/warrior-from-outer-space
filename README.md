@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ARTE.jpg" alt="Capa Warrior From Outer Space" width="700">
+  <img src="wfos/ARTE.jpg" alt="Capa Warrior From Outer Space" width="700">
 </p>
 
 # WARRIOR FROM OUTER SPACE

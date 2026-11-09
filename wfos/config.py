@@ -1,0 +1,59 @@
+# config.py - Constantes Globais, Dimensões e Paletas 8-Bits
+
+# Configurações de Tela (Janela 800x600 com resolução nativa 400x300 = Pixels 2x2)
+TELA_LARGURA = 800
+TELA_ALTURA = 600
+LARGURA_INT = 400
+ALTURA_INT = 300
+
+# Divisão de Layout Interno (Gameplay)
+AREA_JOGO_X = 8
+AREA_JOGO_Y = 8
+AREA_JOGO_LARG = 264
+AREA_JOGO_ALT = 284
+
+HUD_X = 280
+HUD_LARG = 120
+
+# Paleta Master System / Arcade 8-Bits
+PRETO_ESPACO = (6, 6, 12)
+PRETO_VISOR = (10, 8, 12)
+BRANCO = (245, 245, 255)
+
+# Tons de Metal e Ferrugem
+FERRUGEM_SOMBRA = (45, 18, 8)
+FERRUGEM_BASE = (90, 38, 15)
+FERRUGEM_LUZ = (145, 65, 25)
+METAL_ESCURO = (38, 40, 46)
+METAL_BASE = (70, 75, 82)
+METAL_CLARO = (120, 128, 140)
+AMARELO_ALERTA = (215, 155, 20)
+
+# Cores de LED / HUD / PC XT
+LED_VERMELHO = (255, 55, 55)
+LED_CIANO = (40, 230, 255)
+LED_VERDE = (60, 240, 90)
+VERDE_XT_ESCURO = (20, 95, 35)
+LED_LARANJA = (255, 140, 30)
+
+# Texto da Introdução no Terminal PC XT 1984
+LINHAS_HISTORIA_XT = [
+    "CAMP-DOS XT BIOS v3.84 (C) 1984 CAMPGAMES",
+    "MEMORIA RAM: 640KB OK | VIDEO: CRT-RGB",
+    "CARREGANDO ARQUIVO: EXODO_3084.TXT ...",
+    "--------------------------------------------",
+    "ANO 3084. A TERRA NAO PASSA DE UM FANTASMA.",
+    "A HUMANIDADE SOBREVIVE ESPALHADA EM 30",
+    "COLONIAS DE SUCATA NA FRONTEIRA DA FERRUGEM.",
+    "",
+    "DO NUCLEO GALACTICO, O IMPERADOR BIOMECANICO",
+    "VORTEX-9 DESPERTOU COM SUA HORDA DE CROMO,",
+    "DEVORANDO MUNDO APOS MUNDO SEM PIEDADE.",
+    "",
+    "VOCE E KAEL VANCE, ULTIMO DOS STAR-HOUNDS.",
+    "NO COMANDO DO CACA PESADO VALKYRIE-X8,",
+    "DESTRUA OS 29 GENERAIS DA SUCATA E ENFRENTE",
+    "VORTEX-9 NA ORBITA FINAL!",
+    "--------------------------------------------",
+    "C:\\WARRIOR> PRESSIONE [ESPACO] PARA CONTINUAR"
+]
